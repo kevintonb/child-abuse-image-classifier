@@ -11,8 +11,9 @@ https://drive.google.com/drive/folders/1SnEcx2YtM-soUJPXsEqkLURcrX7mBZhi?usp=sha
 Place the above three downloaded folders in the folder where $run.sh is located
 
 Installation: (Mac OS)
-  brew install python
-  pip install tensorflow
+  brew install python (Python 2.7.3)
+  pip install tensorflow (Tensorflow)
+  pip install openCV (cv2)
 
 To run:
   $ ./run.sh
