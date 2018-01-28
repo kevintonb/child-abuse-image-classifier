@@ -5,6 +5,7 @@ This is the Google Drive link for Trained Data Models for
   1. Face Identification in the image
   2. Child Detection
   3. Abusive Content Detection
+  4. The content , if found abusive is then blurred out in order to gain privacy
   
 https://drive.google.com/drive/folders/1SnEcx2YtM-soUJPXsEqkLURcrX7mBZhi?usp=sharing
 
