@@ -7,6 +7,8 @@ This is the Google Drive link for Trained Data Models for
   3. Abusive Content Detection
   4. The content , if found abusive is then blurred out in order to gain privacy
   
+Also star ⭐️ the repo to gain access to the code ❤️
+
 https://drive.google.com/drive/folders/1SnEcx2YtM-soUJPXsEqkLURcrX7mBZhi?usp=sharing
 
 Place the above three downloaded folders in the folder where $run.sh is located
